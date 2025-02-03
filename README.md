@@ -1,4 +1,4 @@
-# Opentrons Bioprocessing Protocol for Light-Sensitive Hydrogels
+# Opentrons Python Bioprocessing Protocol for Light-Sensitive Hydrogels
 
 This repository contains an automated Opentrons protocol for preparing and optimising light-sensitive biomaterials such as GelMA, HA-NB, and PEGDA. These biomaterials are synthesised in various weight % ratios (%w/v) - 10%, 5%-5%, 7.5%-2.5%
 
