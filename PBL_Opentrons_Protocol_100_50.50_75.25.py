@@ -1,5 +1,5 @@
 """
-Author: David Edward Weyland (PhD student)
+Author: David Edward Weyland
 Purpose: This protocol is designed to automate the mixing and processing of three different photoactive biomaterials
          (e.g., GelMA, HA-NB, PEG-DA) at varying weight percentages (%w/v): 10%, 5%-5%, 7.5%-2.5%. The protocol performs
          aspirate/dispense operations, offset mixing, and transfers to custom microwells on the Opentrons platform.
