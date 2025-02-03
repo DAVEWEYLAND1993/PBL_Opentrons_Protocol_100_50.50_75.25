@@ -26,6 +26,6 @@ This repository contains an automated Opentrons protocol for preparing and optim
 ## 👨‍🔬 Author:
 **David Edward Weyland**  
 PhD Researcher | **3D Volumetric Bioprinting | Organoid Intelligence | AI in Biomanufacturing**  
-[LinkedIn Profile](#)
+https://www.linkedin.com/in/davidedwardweyland/
 
 ---
